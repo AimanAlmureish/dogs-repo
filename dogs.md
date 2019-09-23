@@ -4,4 +4,4 @@
 3. Shiba
 4. German Shippers
 5. Puddel 
-6. Ovcharka
+7. ovch
